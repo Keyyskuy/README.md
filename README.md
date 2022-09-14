@@ -12,16 +12,16 @@ Learning in both backend and frontend programming.
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://cdn.discordapp.com/attachments/903276755601719316/1019579245980295218/okok.gif" alt="keyyskuy" /></p>
 
 
 - 🌱 “Hajimemashite”
 
 - 📫 How to reach me **stunchou554@gmail.com**
 
-- ⚡ I love programming, gaming, Content, All about IT.
+- ⚡ I love programming, gaming, content, IT.
 
-- ⚓ I'm more focused on the web and discord bots
+- ⚓ I'm more focused on web and discord bots.
 
 <br>
 
