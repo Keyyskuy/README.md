@@ -1,7 +1,3 @@
-<!--
-[![Header](https://github.com/keyyskuy/keyyskuy/blob/main/image/header.jpg?raw=true)]()
--->
- <img src="https://github.com/keyyskuy/keyyskuy/blob/main/image/header.jpg?raw=true" width ="100%">
 <br />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=435&lines=YOROSHIKU+ONEGAI+SHIMASU)](https://github.com/keyyskuy)
