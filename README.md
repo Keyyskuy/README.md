@@ -27,7 +27,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keyyskuy&theme=buefy&show_icons=true" />
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyyskuy&theme=buefy&layout=compact&exclude_repo=procon-plugins" />
-
+  
 </div>
 
 <br/>
