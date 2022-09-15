@@ -59,7 +59,7 @@ Learning in both backend and frontend programming.
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Stats</b>
 
 <p align="center">
 <a href="https://github.com/keyyskuy/">
